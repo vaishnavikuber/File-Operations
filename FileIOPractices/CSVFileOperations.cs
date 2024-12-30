@@ -26,11 +26,14 @@ namespace FileIOPractices
         public static void WriteFile()
         {
             string path = @"C:\Users\vaish\source\repos\FileIOPractices\FileIOPractices\NewCsvFile.csv";
+            string[] line = { "Shridevi", "Sammu", "Seeta" };
 
             if (File.Exists(path))
             {
                 File.WriteAllText(path, "Hello Bangalore People!!!");
                 Console.WriteLine("Written");
+
+                File.WriteAllLines(path, line);
 
                 File.AppendAllText(path, "How are you?");
                 Console.WriteLine("Added text to exixting text");
@@ -47,8 +50,13 @@ namespace FileIOPractices
 
             try
             {
-                string text= File.ReadAllText(path);
-                Console.WriteLine(text);
+                //string text= File.ReadAllText(path);
+                //Console.WriteLine(text);
+
+                foreach(string name in File.ReadAllLines(path))
+                {
+                    Console.Write(name+"\n");
+                }
             }
             catch(Exception e)
             {
