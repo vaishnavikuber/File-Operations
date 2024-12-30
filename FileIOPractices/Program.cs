@@ -25,6 +25,10 @@ namespace FileIOPractices
             //CSVFileOperations.ReadFile();
 
             JSONFileOperations.CreateFile();
+
+            JSONFileOperations.WriteFile();
+
+            JSONFileOperations.DeleteFile();
         }
     }
 }
