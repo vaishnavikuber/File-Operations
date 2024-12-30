@@ -22,7 +22,9 @@ namespace FileIOPractices
 
             //CSVFileOperations.WriteFile();
 
-            CSVFileOperations.ReadFile();
+            //CSVFileOperations.ReadFile();
+
+            JSONFileOperations.CreateFile();
         }
     }
 }
