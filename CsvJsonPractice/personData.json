@@ -1,0 +1,23 @@
+[
+  {
+    "Id": 1,
+    "Name": "Rani",
+    "Email": "rani@gmail.com",
+    "Phone": "6578764325",
+    "Zip": 456786
+  },
+  {
+    "Id": 2,
+    "Name": "Gani",
+    "Email": "gani@gmail.com",
+    "Phone": "8978764390",
+    "Zip": 578787
+  },
+  {
+    "Id": 1,
+    "Name": "Yamini",
+    "Email": "yamini@gmail.com",
+    "Phone": "5678564312",
+    "Zip": 58678
+  }
+]
