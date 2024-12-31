@@ -1,0 +1,14 @@
+C:\Users\vaish\source\repos\FileIOPractices\FileIOPractices\bin\Debug\netcoreapp3.1\FileIOPractices.exe
+C:\Users\vaish\source\repos\FileIOPractices\FileIOPractices\bin\Debug\netcoreapp3.1\FileIOPractices.deps.json
+C:\Users\vaish\source\repos\FileIOPractices\FileIOPractices\bin\Debug\netcoreapp3.1\FileIOPractices.runtimeconfig.json
+C:\Users\vaish\source\repos\FileIOPractices\FileIOPractices\bin\Debug\netcoreapp3.1\FileIOPractices.runtimeconfig.dev.json
+C:\Users\vaish\source\repos\FileIOPractices\FileIOPractices\bin\Debug\netcoreapp3.1\FileIOPractices.dll
+C:\Users\vaish\source\repos\FileIOPractices\FileIOPractices\bin\Debug\netcoreapp3.1\FileIOPractices.pdb
+C:\Users\vaish\source\repos\FileIOPractices\FileIOPractices\obj\Debug\netcoreapp3.1\FileIOPractices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaish\source\repos\FileIOPractices\FileIOPractices\obj\Debug\netcoreapp3.1\FileIOPractices.AssemblyInfoInputs.cache
+C:\Users\vaish\source\repos\FileIOPractices\FileIOPractices\obj\Debug\netcoreapp3.1\FileIOPractices.AssemblyInfo.cs
+C:\Users\vaish\source\repos\FileIOPractices\FileIOPractices\obj\Debug\netcoreapp3.1\FileIOPractices.csproj.CoreCompileInputs.cache
+C:\Users\vaish\source\repos\FileIOPractices\FileIOPractices\obj\Debug\netcoreapp3.1\FileIOPractices.sourcelink.json
+C:\Users\vaish\source\repos\FileIOPractices\FileIOPractices\obj\Debug\netcoreapp3.1\FileIOPractices.dll
+C:\Users\vaish\source\repos\FileIOPractices\FileIOPractices\obj\Debug\netcoreapp3.1\FileIOPractices.pdb
+C:\Users\vaish\source\repos\FileIOPractices\FileIOPractices\obj\Debug\netcoreapp3.1\FileIOPractices.genruntimeconfig.cache
